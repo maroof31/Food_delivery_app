@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1080505435412",
+    "firebase_url": "https://ecomex-f148e-default-rtdb.firebaseio.com",
+    "project_id": "ecomex-f148e",
+    "storage_bucket": "ecomex-f148e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080505435412:android:f23be25c1e754e447d6e01",
+        "android_client_info": {
+          "package_name": "com.nevermindapp.newproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080505435412-amc29302eqc6hhme2c1606uap1tt4plo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nevermindapp.newproject1",
+            "certificate_hash": "3d44f0aeea4413ee5c8af657e610f88c23725159"
+          }
+        },
+        {
+          "client_id": "1080505435412-lt7n7eb4c6uk3ismronkh83776uj5msa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7dyp4ChA5zB8GCW5KBdgJgF5JNiI48s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080505435412-lt7n7eb4c6uk3ismronkh83776uj5msa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080505435412:android:95e1d0e913e6ac5d7d6e01",
+        "android_client_info": {
+          "package_name": "com.seamless.fooddeliveryadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080505435412-lt7n7eb4c6uk3ismronkh83776uj5msa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7dyp4ChA5zB8GCW5KBdgJgF5JNiI48s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080505435412-lt7n7eb4c6uk3ismronkh83776uj5msa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080505435412:android:d23736e73c43b9ea7d6e01",
+        "android_client_info": {
+          "package_name": "com.seamless.foodorderingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080505435412-c229n6unsc0itvtbhbmi21o79cbc276b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seamless.foodorderingfirebase",
+            "certificate_hash": "5dbc9669d7163d2367b2c5d28998ec6f64c0b21d"
+          }
+        },
+        {
+          "client_id": "1080505435412-lt7n7eb4c6uk3ismronkh83776uj5msa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7dyp4ChA5zB8GCW5KBdgJgF5JNiI48s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080505435412-lt7n7eb4c6uk3ismronkh83776uj5msa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
