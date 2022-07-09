@@ -1,15 +1,19 @@
 package com.nevermindapp.newproject1.ui.rest
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.LinearLayout
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.nevermindapp.newproject1.R
 import com.nevermindapp.newproject1.ui.auth.ProfileFragment
 import com.nevermindapp.newproject1.ui.rest.fragments.Fragment_cart
 import com.nevermindapp.newproject1.ui.rest.fragments.HomeFragment
 import com.nevermindapp.newproject1.ui.rest.fragments.OrdersFragment
+import com.razorpay.PaymentResultListener
 
-class MainActivity : AppCompatActivity() {
+
+class MainActivity : AppCompatActivity(), PaymentResultListener {
+    var listener: PaymentListener? =null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -18,7 +22,12 @@ class MainActivity : AppCompatActivity() {
         transaction.replace(R.id.fragmentcontainer, HomeFragment())
         transaction.commit()
         bottomNavigation()
+
     }
+
+
+
+
 
     private fun bottomNavigation() {
         val homeBtn = findViewById<LinearLayout>(R.id.homeBtn)
@@ -47,6 +56,21 @@ class MainActivity : AppCompatActivity() {
             transaction.commit()
         }
 
+    }
+
+    override fun onPaymentSuccess(p0: String?) {
+        Toast.makeText(this, "Payment Success", Toast.LENGTH_SHORT).show()
+        listener!!.onSuccess()
+
+    }
+
+    override fun onPaymentError(p0: Int, p1: String?) {
+        Toast.makeText(this, "Payment Failed", Toast.LENGTH_SHORT).show()
+        listener!!.onFailure()
+    }
+
+    public fun getListener(listenerr: PaymentListener){
+        this.listener=listenerr
     }
 
 }

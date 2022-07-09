@@ -78,4 +78,6 @@ interface ClickListener {
     fun deleteproduct(item: CartModel)
     fun minusClick(item: CartModel)
     fun plusClick(item: CartModel)
+
+
 }

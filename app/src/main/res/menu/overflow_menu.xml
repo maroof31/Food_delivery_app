@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/all"
+        android:title="All" />
+    <item android:id="@+id/accepted"
+        android:title="accepted" />
+    <item android:id="@+id/delivered"
+        android:title="delivered" />
+    <item android:id="@+id/cancelled"
+        android:title="cancelled" />
+</menu>

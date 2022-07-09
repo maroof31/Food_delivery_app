@@ -9,8 +9,15 @@
 
 
     <ScrollView
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:fillViewport="true">
 
 
         <RelativeLayout
@@ -42,10 +49,9 @@
 
 
             <LinearLayout
-                android:layout_marginTop="40dp"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/cv11"
                 android:layout_alignParentBottom="true"
                 android:background="@drawable/background_white"
                 android:orientation="vertical">

@@ -4,23 +4,39 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable-v24/background_profile.xml" value="0.2203125" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable-xhdpi/category_title_background.xml" value="0.1895" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable-xhdpi/price_background.xml" value="0.202" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable-xxhdpi/btn_background.xml" value="0.1895" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable-xxhdpi/btn_no_background.xml" value="0.1895" />
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable/background_category.xml" value="0.17685185185185184" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable/background_order.xml" value="0.207" />
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable/background_white.xml" value="0.2203125" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable/bg_overlay.xml" value="0.1805" />
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/drawable/logout_button.xml" value="0.2203125" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_login.xml" value="0.18" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_product_detail.xml" value="0.18" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_all_orders.xml" value="0.2" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_product_detail.xml" value="0.16" />
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_products.xml" value="0.20416666666666666" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_signup.xml" value="0.33" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_splash.xml" value="0.1" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_cart.xml" value="0.20416666666666666" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_orders.xml" value="0.18703703703703703" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/activity_splash.xml" value="0.14" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/address_details.xml" value="0.18" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_cart.xml" value="0.33" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_orders.xml" value="0.15168539325842698" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/image_slider_layout_item.xml" value="0.16" />
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/item_cart.xml" value="0.20416666666666666" />
         <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/item_category.xml" value="0.20416666666666666" />
-        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/item_product.xml" value="0.20416666666666666" />
-        <entry key="..\:/MYFOLDERS/food delivery mvvm copy/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/item_category_new.xml" value="0.75" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/item_orders.xml" value="0.20416666666666666" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/item_product.xml" value="0.5" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/list_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/order_item.xml" value="0.31121642969984203" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/layout/overflow_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/menu/overflow_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1185" />
+        <entry key="..\:/MYFOLDERS/Newproject1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1185" />
       </map>
     </option>
   </component>

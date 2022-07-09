@@ -30,7 +30,7 @@ class CatagoryAdapter (val requireContext: Context) :
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CatagoryVH {
         return CatagoryVH(
-            LayoutInflater.from(requireContext).inflate(R.layout.item_category, parent, false)
+            LayoutInflater.from(requireContext).inflate(R.layout.item_category_new, parent, false)
         )
     }
 

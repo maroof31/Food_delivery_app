@@ -28,9 +28,9 @@ class SignupActivity : AppCompatActivity(), AuthListener {
         val util: UserSessionUtils = UserSessionUtils(this)
         val factory=AuthViewModelFactory(repository,utils=util)
 
-         binding= DataBindingUtil.setContentView(this, R.layout.activity_signup)
 
-        viewModel= ViewModelProviders.of(this,factory).get(AuthViewModel::class.java)
+         binding= DataBindingUtil.setContentView(this, R.layout.activity_signup)
+         viewModel= ViewModelProviders.of(this,factory).get(AuthViewModel::class.java)
 
         binding.viewmodel = viewModel
         viewModel.authListener=this

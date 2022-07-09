@@ -11,6 +11,7 @@ import com.nevermindapp.newproject1.databinding.ActivityProductDetailBinding
 import com.nevermindapp.newproject1.databinding.ActivityProductsBinding
 import com.nevermindapp.newproject1.ui.ProductDetailListener
 import com.nevermindapp.newproject1.ui.ProductDetailViewModel
+import com.nevermindapp.newproject1.ui.auth.session.UserSessionUtils
 import database.AppDatabase
 import net.simplifiedcoding.ui.auth.MainViewModelFactory
 import net.simplifiedcoding.ui.auth.ProductDetailViewModelFactory
@@ -23,7 +24,6 @@ class ProductDetailActivity : AppCompatActivity(), ProductDetailListener {
     lateinit var productprice: String
     lateinit var id: String
     lateinit var link: String
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 

@@ -29,6 +29,8 @@ class AuthViewModel(private val repository: UserRepository,private val utils: Us
     var authListener: AuthListener? = null
 
 
+
+
     fun getCurrentUser(): FirebaseUser? {
         return repository.currentUser()
     }
@@ -119,7 +121,7 @@ class AuthViewModel(private val repository: UserRepository,private val utils: Us
 
       }
         .addOnFailureListener { e ->
-            authListener!!.onFailure( "failed signing up try again")
+            authListener!!.onFailure("failed signing up try again")
         }
     }
 
