@@ -22,6 +22,7 @@ class LoginActivity : AppCompatActivity(),AuthListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+
         val firebaseSource= FirebaseSource()
         val repository=UserRepository(firebaseSource)
         val util:UserSessionUtils= UserSessionUtils(this)
@@ -29,10 +30,11 @@ class LoginActivity : AppCompatActivity(),AuthListener {
 
          binding= DataBindingUtil.setContentView(this, R.layout.activity_login)
 
-          viewModel=ViewModelProviders.of(this,factory).get(AuthViewModel::class.java)
+         viewModel=ViewModelProviders.of(this,factory).get(AuthViewModel::class.java)
 
         binding.viewmodel = viewModel
         viewModel.authListener=this
+
     }
 
     override fun onStarted() {
