@@ -32,3 +32,6 @@ Used Firebase firestore as database
 <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/cart.PNG" alt="cart Screen" width="350">
 
 </p>
+
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/payment.PNG" alt="all products Screen" width="350">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/checkout.PNG" alt="all products Screen" width="350">
