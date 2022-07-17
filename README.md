@@ -36,6 +36,8 @@
 
 ## Checkout and Payment Screen
 
+<p float="left">
 <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/checkout.PNG" alt="all products Screen" width="350">
 <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/payment.PNG" alt="all products Screen" width="350">
+</p>
 
