@@ -23,13 +23,13 @@ The app comes with several features to provide a seamless and delightful food or
 - User registration and login.
 
 -  ## Onboarding Screens
- <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/splash.PNG" alt="Splash Screen" width="400">
+ <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/splash.PNG" alt="Splash Screen" width="200">
  
   
   
 <p float="left">
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/login.PNG" alt="Splash Screen" width="400">
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/register.PNG" alt="Login Screen" width="400">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/login.PNG" alt="Splash Screen" width="200">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/register.PNG" alt="Login Screen" width="200">
 </p>
 
 
