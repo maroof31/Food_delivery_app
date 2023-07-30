@@ -38,25 +38,25 @@ The app comes with several features to provide a seamless and delightful food or
 - ## Home and Profile Screen
 
 <p float="left">
-   <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/home.PNG" alt="Home Screen" width="400">
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/profile.PNG" alt="profile Screen" width="400">
+   <img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/home.PNG" alt="Home Screen" width="200">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/profile.PNG" alt="profile Screen" width="200">
  
 </p>
 - Add items to the cart and manage the cart contents.
 <p float="left">
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/allproducts.PNG" alt="all products Screen" width="350">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/allproducts.PNG" alt="all products Screen" width="200">
 
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/productDetail.PNG" alt="product detail Screen" width="350">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/productDetail.PNG" alt="product detail Screen" width="200">
 
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/cart.PNG" alt="cart Screen" width="350">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/cart.PNG" alt="cart Screen" width="200">
 
 </p>
 - Place orders and track order status.
 ## Checkout and Payment Screen
 
 <p float="left">
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/checkout.PNG" alt="all products Screen" width="350">
-<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/payment.PNG" alt="all products Screen" width="350">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/checkout.PNG" alt="all products Screen" width="200">
+<img src="https://github.com/maroof31/Food_delivery_app/blob/master/images/payment.PNG" alt="all products Screen" width="200">
 </p>
 
 
@@ -73,7 +73,7 @@ To install and run the app, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/restaurant-food-delivery-app](https://github.com/maroof31/Food_delivery_app.git
+git clone https://github.com/maroof31/Food_delivery_app.git
 ```
 
 2. Open the project in Android Studio.
