@@ -73,7 +73,7 @@ To install and run the app, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/restaurant-food-delivery-app.git
+git clone https://github.com/your-username/restaurant-food-delivery-app](https://github.com/maroof31/Food_delivery_app.git
 ```
 
 2. Open the project in Android Studio.
